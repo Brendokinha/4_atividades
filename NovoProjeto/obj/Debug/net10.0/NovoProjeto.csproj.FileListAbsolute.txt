@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\˖ ꒰੭୧ 𝐁renda 🍎 ⊹ ࣪ ⑅\NovoProjeto\bin\Debug\net10.0\NovoProjeto.exe
+C:\Users\Aluno\Documents\˖ ꒰੭୧ 𝐁renda 🍎 ⊹ ࣪ ⑅\NovoProjeto\bin\Debug\net10.0\NovoProjeto.deps.json
+C:\Users\Aluno\Documents\˖ ꒰੭୧ 𝐁renda 🍎 ⊹ ࣪ ⑅\NovoProjeto\bin\Debug\net10.0\NovoProjeto.runtimeconfig.json
+C:\Users\Aluno\Documents\˖ ꒰੭୧ 𝐁renda 🍎 ⊹ ࣪ ⑅\NovoProjeto\bin\Debug\net10.0\NovoProjeto.dll
+C:\Users\Aluno\Documents\˖ ꒰੭୧ 𝐁renda 🍎 ⊹ ࣪ ⑅\NovoProjeto\bin\Debug\net10.0\NovoProjeto.pdb
+C:\Users\Aluno\Documents\˖ ꒰੭୧ 𝐁renda 🍎 ⊹ ࣪ ⑅\NovoProjeto\obj\Debug\net10.0\NovoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\˖ ꒰੭୧ 𝐁renda 🍎 ⊹ ࣪ ⑅\NovoProjeto\obj\Debug\net10.0\NovoProjeto.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\˖ ꒰੭୧ 𝐁renda 🍎 ⊹ ࣪ ⑅\NovoProjeto\obj\Debug\net10.0\NovoProjeto.AssemblyInfo.cs
+C:\Users\Aluno\Documents\˖ ꒰੭୧ 𝐁renda 🍎 ⊹ ࣪ ⑅\NovoProjeto\obj\Debug\net10.0\NovoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\˖ ꒰੭୧ 𝐁renda 🍎 ⊹ ࣪ ⑅\NovoProjeto\obj\Debug\net10.0\NovoProjeto.dll
+C:\Users\Aluno\Documents\˖ ꒰੭୧ 𝐁renda 🍎 ⊹ ࣪ ⑅\NovoProjeto\obj\Debug\net10.0\refint\NovoProjeto.dll
+C:\Users\Aluno\Documents\˖ ꒰੭୧ 𝐁renda 🍎 ⊹ ࣪ ⑅\NovoProjeto\obj\Debug\net10.0\NovoProjeto.pdb
+C:\Users\Aluno\Documents\˖ ꒰੭୧ 𝐁renda 🍎 ⊹ ࣪ ⑅\NovoProjeto\obj\Debug\net10.0\NovoProjeto.genruntimeconfig.cache
+C:\Users\Aluno\Documents\˖ ꒰੭୧ 𝐁renda 🍎 ⊹ ࣪ ⑅\NovoProjeto\obj\Debug\net10.0\ref\NovoProjeto.dll
